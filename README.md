@@ -4,7 +4,7 @@ A custom CSS theme for YouTube Music inspired by the Northern Lights.
 
 ## Preview
 
-![Aurora Boreal Theme Preview](css-theme.png)
+![Aurora Boreal Theme Preview](preview.png)
 
 ## Features
 
