@@ -1,6 +1,6 @@
 # Aurora Boreal Theme for YouTube Music
 
-A custom CSS theme for YouTube Music inspired by the Northern Lights.
+A custom CSS theme for [th-ch/youtube-music](https://github.com/th-ch/youtube-music) desktop app inspired by the Northern Lights.
 
 ## Preview
 
@@ -15,10 +15,10 @@ A custom CSS theme for YouTube Music inspired by the Northern Lights.
 
 ## Installation
 
-1. Install a custom CSS manager extension (like Stylus for [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/))
-2. Create a new style for `music.youtube.com`
-3. Copy and paste the content from `aurora-boreal-theme.css`
-4. Save and enable the style
+1. Download the [th-ch/youtube-music](https://github.com/th-ch/youtube-music) desktop application
+2. Go to Options → Visual Tweaks → Theme
+3. Click "Import CSS file" and select the `aurora-boreal-theme.css` file
+4. Apply and enjoy your new theme!
 
 ## Customization
 
